@@ -1,5 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<div style="background-color: #101010; height:150px; width:auto; border-radius:20px; display: flex; align-items: center; justify-content: center; "><h1>Hi there 👋</h1></div>
 
+
+
+  
+  
 <!--
 **dironpolson/dironpolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
