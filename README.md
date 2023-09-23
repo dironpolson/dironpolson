@@ -1,21 +1,34 @@
-<!-- ### Hi there 👋 -->
-<div style="background-color: #101010; height:150px; width:auto; border-radius:20px; display: flex; align-items: center; justify-content: center; "><h1>Hi there 👋</h1></div>
+<!-- Replace these placeholders with your personal information and details -->
+
+<p align="center">
+  <img src="./assets/RMD_Img_1.png" alt="Your Name" width="100%">
+</p>
+
+</br></br>
+
+<h1 align="center">👋 Hello, I'm Diron</h1>
+
+<p align="center">
+  BS Cybersecurity Student | Designer | Developer
+</p>
 
 
+<p align="center">
+  <a href="https://www.dironpolson.com/">
+  <img src="./assets/RMD_Img_2.png" alt="HTML" width="auto" height="30">
+  </a>
+</p>
 
-  
-  
-<!--
-**dironpolson/dironpolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br></br>
 
-Here are some ideas to get you started:
+<h2 align="center">🚀 About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I'm a passionate BS Cybersecurity student based in Paris, France, with a background in design and development. My journey revolves around securing the digital world and creating elegant solutions.
+</p>
+
+</br></br>
+
+<p align="center">
+  Thanks for visiting! 😊
+</p>
