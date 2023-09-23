@@ -4,7 +4,7 @@
   <img src="./assets/RMD_Img_1.png" alt="Your Name" width="100%">
 </p>
 
-</br></br>
+</br>
 
 <h1 align="center">👋 Hello, I'm Diron</h1>
 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-</br></br>
+</br>
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -28,7 +28,7 @@
   I'm a passionate BS Cybersecurity student based in Paris, France, with a background in design and development. My journey revolves around securing the digital world and creating elegant solutions.
 </p>
 
-</br></br>
+</br>
 
 <p align="center">
   Thanks for visiting! 😊
