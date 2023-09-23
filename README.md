@@ -1,7 +1,7 @@
 <!-- Replace these placeholders with your personal information and details -->
 
 <p align="center">
-  <img src="./assets/1.svg" alt="Your Name" width="100%">
+  <img src="./assets/RMD_Img_1.svg" alt="Your Name" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm Diron</h1>
