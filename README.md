@@ -4,10 +4,7 @@
   <img src="./assets/RMD_Img_1.png" alt="Your Name" width="100%">
 </p>
 
-</br>
-
 <h1 align="center">👋 Hello, I'm Diron</h1>
-
 
 <p align="center">
   BS Cybersecurity Student | Designer | Developer
@@ -20,7 +17,7 @@
   </a>
 </p>
 
-</br>
+</br></br>
 
 <h2 align="center">🚀 About Me</h2>
 
