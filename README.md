@@ -9,6 +9,10 @@
 <p align="center">
   BS Cybersecurity Student | Designer | Developer
 </p>
+<p align="center"> 
+      <a href="https://github.com/dironpolson?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dironpolson?color=0d1117&labelColor=0d1117&style=for-the-badge&logo=github_v10&label=Follow&logoColor=white"/></a>
+</p>
 
 
 <p align="center">
@@ -25,8 +29,15 @@
   I'm a passionate BS Cybersecurity student based in Paris, France, with a background in design and development. My journey revolves around securing the digital world and creating elegant solutions.
 </p>
 
+</br></br>
+
+
+
 </br>
 
 <p align="center">
   Thanks for visiting! 😊
 </p>
+
+
+
