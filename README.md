@@ -15,11 +15,14 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.dironpolson.com/">
-  <img src="./assets/RMD_Img_2.png" alt="HTML" width="auto" height="30">
-  </a>
-</p>
+</br></br>
+
+<!-- <p align="center"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dironpolson&layout=compact" /> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dironpolson&repo=dironpolson" /> -->
+<!-- </p> -->
+
+
 
 </br></br>
 
