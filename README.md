@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello, I'm Diron</h1>
 
 <p align="center">
-  Cybersecurity Student | Designer | Developer
+  Cybersecurity Student
 </p>
 <p align="center"> 
       <a href="https://github.com/dironpolson?tab=followers">
@@ -29,7 +29,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a passionate BS Cybersecurity student based in Paris, France, with a background in design and development. My journey revolves around securing the digital world and creating elegant solutions.
+  I'm a passionate Cybersecurity student based in Paris, France, with a background in design and development. My journey revolves around securing the digital world and creating elegant solutions.
 </p>
 
 </br></br>
