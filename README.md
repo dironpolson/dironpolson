@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello, I'm Diron</h1>
 
 <p align="center">
-  BS Cybersecurity Student | Designer | Developer
+  Cybersecurity Student | Designer | Developer
 </p>
 <p align="center"> 
       <a href="https://github.com/dironpolson?tab=followers">
